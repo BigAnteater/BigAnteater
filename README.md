@@ -16,4 +16,3 @@ You can reach me through a few different ways. No personal/DMing because that wo
 
 - My [Youtube](https://youtube.com/wxtlpog)
 
-## Projects That I'm proud Of
