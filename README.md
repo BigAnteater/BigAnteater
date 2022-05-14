@@ -4,9 +4,7 @@ My name is BigAnteater but I go by many other usernames due to me not making up 
 
 # What I'm Working On
 
-- I'm currently working on a frontend for libvirt
-
-<!--<img src="https://user-images.githubusercontent.com/77298458/154819464-ec5a3960-cd5f-49ce-a3b9-e97d432f961f.jpg" width=65% height=65%>!-->
+- I don't know
 
 # How To Reach Me
 
